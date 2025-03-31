@@ -12,7 +12,7 @@ coursesRouter.get("/preview",function(req,res){
 coursesRouter.post("/purchase",function(req,res){
 
     res.json({
-        message:"end point"
+        message:"course purchase end point"
     })
 })
 
